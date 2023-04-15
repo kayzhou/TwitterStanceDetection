@@ -1,0 +1,3 @@
+# TwitterStanceDetection
+
+text_NNs和text_UNION目录为张悦硕士学位论文相关实验代码。
